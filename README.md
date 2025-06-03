@@ -9,7 +9,7 @@ MoodMirror App is built using the following technologies:
 
 📍 React – for building a responsive and interactive frontend interface that seamlessly displays real-time emotion recognition feedback    
 📍 Flask – as the backend framework powering emotion analysis logic and coordinating between the frontend and the machine learning model    
-📍 Custom-Trained TensorFlow Model –  trained on the [Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset) from Kaggle to accurately classify user emotions based on webcam input    
+📍 Custom-Trained TensorFlow Model –  trained on the [Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset) from Kaggle to accurately classify user emotions based on webcam input. The **training_code** file contains the code used for training the model.    
 📍 NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow – used for data preprocessing, visualization, model development, training, and evaluation during the machine learning pipeline    
 📍 OpenCV – for capturing and processing real-time webcam video feed for face detection and input to the model    
 
