@@ -60,7 +60,7 @@ python app.py
 ```
 
 ## License  
-StrawBouquet is licensed under the MIT License. See [LICENSE](https://github.com/hsialitskaya/MoodMirror_App/blob/main/LICENSE) for more information.      
+MoodMirror is licensed under the MIT License. See [LICENSE](https://github.com/hsialitskaya/MoodMirror_App/blob/main/LICENSE) for more information.      
 
 
 Enjoy exploring your emotions and let MoodMirror help you stay mindful, focused, and refreshed throughout your day! 🎉  
