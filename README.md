@@ -1,4 +1,4 @@
-# 😀☹️ MoodMirror ☹️😀
+# 😀🤨 MoodMirror 🤨😀
 
 MoodMirror App is an innovative and intuitive application designed to detect and respond to the emotions of a person sitting in front of a computer. Using advanced facial analysis, the app identifies emotional states such as happiness, sadness or anger, and reacts accordingly to enhance the user’s well-being and productivity. Whether it’s playing relaxing music, suggesting a break, offering motivational content, or triggering an energizing sound, MoodMirror adapts in real time to support the user’s mood. With a sleek interface and smart features, the app creates a personalized and emotionally aware digital environment, making every interaction more thoughtful, responsive, and human-centered. 
 
